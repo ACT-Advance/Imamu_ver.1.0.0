@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imamu", "Imamu\Imamu.csproj", "{FF89B4E2-AADB-4857-B64B-5B4917004FE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imamu.Tests", "Imamu.Tests\Imamu.Tests.csproj", "{AC765106-4679-4C0C-A14C-9D7AB6BB6DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF89B4E2-AADB-4857-B64B-5B4917004FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF89B4E2-AADB-4857-B64B-5B4917004FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF89B4E2-AADB-4857-B64B-5B4917004FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF89B4E2-AADB-4857-B64B-5B4917004FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC765106-4679-4C0C-A14C-9D7AB6BB6DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC765106-4679-4C0C-A14C-9D7AB6BB6DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC765106-4679-4C0C-A14C-9D7AB6BB6DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC765106-4679-4C0C-A14C-9D7AB6BB6DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+	<asp:ContentPlaceHolder ID="head" runat="server">
+		<title></title>
+	</asp:ContentPlaceHolder>
+</head>
+<body>
+	<asp:ContentPlaceHolder ID="MainContent" runat="server">
+        <h1>画面一覧</h1>
+        <ul>
+            <li>
+                <a href="login.html">ログイン画面</a>
+            </li>
+            <li>
+                <a href="chat.html">チャット画面</a>
+            </li>
+        </ul>
+		
+	</asp:ContentPlaceHolder>
+</body>
+</html>

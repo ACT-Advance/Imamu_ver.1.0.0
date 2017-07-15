@@ -1,0 +1,27 @@
+#title-line {
+	text-align: center;
+}
+
+#input-box {
+	padding: 10px;
+	border: 2px solid #000000;
+	border-radius: 10px;
+	max-width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.input-line, #login {
+	padding: 5px;
+	max-width: 300px;
+	margin: 0 auto;
+}
+
+.input-line input,#login input {
+	width: 100%;
+	border-radius: 5px;
+}
+
+li {
+	display: inline-block;
+}

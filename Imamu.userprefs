@@ -1,12 +1,12 @@
-﻿<Properties StartupConfiguration="{826B031B-BEAD-4204-B570-2FAE000B2415}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TestSln/Views/Home/Index.cshtml">
+﻿<Properties StartupConfiguration="{200D38BF-A25C-46AE-9E29-708E80ADA458}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Imamu/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="TestSln/Views/Home/Index.cshtml" Line="2" Column="29" />
-      <File FileName="TestSln/Views/Home/Chat.cshtml" Line="56" Column="80" />
-      <File FileName="TestSln/Views/Shared/_Layout.cshtml" Line="12" Column="19" />
-      <File FileName="TestSln/Views/_ViewStart.cshtml" Line="1" Column="1" />
-      <File FileName="TestSln/Views/Shared/Message.cshtml" Line="5" Column="20" />
-      <File FileName="TestSln/Models/MessageModel.cs" Line="29" Column="1" />
+      <File FileName="Imamu/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="packages/AjaxControlToolkit.17.1.1.0/readme.txt" Line="1" Column="1" />
+      <File FileName="packages/Microsoft.AspNet.SignalR.2.2.2/readme.txt" Line="1" Column="1" />
+      <File FileName="Imamu/App_Start/BundleConfig.cs" Line="34" Column="3" />
+      <File FileName="Imamu/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Imamu/Views/Shared/_Layout.cshtml" Line="13" Column="45" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

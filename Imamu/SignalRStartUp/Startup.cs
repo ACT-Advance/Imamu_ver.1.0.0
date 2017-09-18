@@ -12,5 +12,6 @@ namespace SignalRHubServer
 			// URIマップ先を設定
 			app.MapSignalR();
 		}
+
 	}
 }

@@ -32,6 +32,36 @@ namespace Imamu.Models
 		/// </summary>
 		[DisplayName("メッセージ")]
         public string Message { get; set; }
-            
-    }
+
+		/// <summary>
+		/// ユーザID
+		/// </summary>
+		[DisplayName("いまむユーザID")]
+		public string imamuUserId { get; set; }
+
+		/// <summary>
+		/// imamu名前
+		/// </summary>
+		[DisplayName("いまむ名前")]
+		public string imamuName { get; set; }
+
+		/// <summary>
+		/// imamu時刻
+		/// </summary>
+		[DisplayName("いまむ時刻")]
+		public DateTime imamuTime { get; set; }
+
+		/// <summary>
+		/// メッセージ
+		/// </summary>
+		[DisplayName("いまむメッセージ")]
+		public string imamuMessage { get; set; }
+
+		/// <summary>
+		/// 会話フラグ
+		/// </summary>
+		[DisplayName("会話フラグ")]
+		public string MessageFlg { get; set; }
+
+	}
 }
